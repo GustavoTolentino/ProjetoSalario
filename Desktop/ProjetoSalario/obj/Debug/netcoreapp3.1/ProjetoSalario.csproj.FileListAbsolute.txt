@@ -9,3 +9,16 @@ C:\Users\dev\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.Assem
 C:\Users\dev\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.AssemblyInfo.cs
 C:\Users\dev\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.dll
 C:\Users\dev\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.pdb
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\bin\Debug\netcoreapp3.1\ProjetoSalario.exe
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\bin\Debug\netcoreapp3.1\ProjetoSalario.deps.json
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\bin\Debug\netcoreapp3.1\ProjetoSalario.runtimeconfig.json
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\bin\Debug\netcoreapp3.1\ProjetoSalario.runtimeconfig.dev.json
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\bin\Debug\netcoreapp3.1\ProjetoSalario.dll
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\bin\Debug\netcoreapp3.1\ProjetoSalario.pdb
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.csprojAssemblyReference.cache
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.AssemblyInfoInputs.cache
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.AssemblyInfo.cs
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.csproj.CoreCompileInputs.cache
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.dll
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.pdb
+C:\SENAI\repositorio\ProjetoSalario\Desktop\ProjetoSalario\obj\Debug\netcoreapp3.1\ProjetoSalario.genruntimeconfig.cache

@@ -11,11 +11,11 @@ namespace ProjetoSalario
             Console.WriteLine("-----------------------------");
             Console.WriteLine("Para Verificar se esta apto a um aumento de salario, primeiro responda: Voce trabalha conosco?");
                 string resposta = Console.ReadLine();
-                    if(resposta == "sim"){
+                    if(resposta == "s"){
                         Console.WriteLine("Otimo, entao ensira seu salario atual:");
                         int salario = int.Parse(Console.ReadLine());
                             if(salario <= 500){
-                                Console.WriteLine(salario * (30 / 100));
+                                Console.WriteLine(salario * ((30.00/100.00) + 1.00));
                                 Console.ReadLine();
                             }else{
                                 Console.WriteLine("Infelizmente voce nao se encaixa nos requisitos para um aumento de salario");
